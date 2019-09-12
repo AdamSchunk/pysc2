@@ -121,7 +121,6 @@ def get_maps():
 	for mp in Map.all_subclasses():
 		if mp.filename or mp.battle_net:
 			map_name = mp.__name__
-			print(map_name)
 			if map_name in maps:
 				raise DuplicateMapError("Duplicate map found: " + map_name)
 			maps[map_name] = mp
