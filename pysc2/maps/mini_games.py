@@ -37,6 +37,7 @@ mini_games = [
     "DefeatZerglingsAndBanelings",  # 120s
     "FindAndDefeatZerglings",  # 180s
     "MoveToBeacon",  # 120s
+	"RandomEngagements", #60s
 ]
 
 
