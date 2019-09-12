@@ -38,6 +38,7 @@ mini_games = [
     "FindAndDefeatZerglings",  # 180s
     "MoveToBeacon",  # 120s
 	"RandomEngagements", #60s
+	"RandomEngagements_max3groups_max10units", #60s
 ]
 
 
