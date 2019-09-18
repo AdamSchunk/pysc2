@@ -39,6 +39,8 @@ mini_games = [
     "MoveToBeacon",  # 120s
 	"RandomEngagements", #60s
 	"RandomEngagements_max3groups_max10units", #60s
+	"ControlAreaPatrol", #120s
+	"RandomEngagements_max1groups_max10units", #60s
 ]
 
 
