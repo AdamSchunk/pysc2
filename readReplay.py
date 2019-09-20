@@ -22,7 +22,7 @@ def csr_matrix_to_list(sparse_matrix):
 	sparse_matrix.indices.tolist(),
 	sparse_matrix.indptr.tolist()] 
 
-flags.DEFINE_string (		 'replay_dir', default=r'/home/adamschunk/StarCraftII/Replays/local', help='')
+flags.DEFINE_string (		 'replay_dir', default=r'/root/StarCraftII/Replays/local', help='')
 flags.DEFINE_string (		 'output_dir', default=r'C:/develop/Sc2ReplayReader', help='')
 flags.DEFINE_integer(				'fps', default=30,	help='')
 flags.DEFINE_bool   (		 'fog_of_war', default=True,  help='')
