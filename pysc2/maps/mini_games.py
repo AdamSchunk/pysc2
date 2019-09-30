@@ -41,6 +41,19 @@ mini_games = [
 	"RandomEngagements_max3groups_max10units", #60s
 	"ControlAreaPatrol", #120s
 	"RandomEngagements_max1groups_max10units", #60s
+	"rndmEng_map_1g_10u", #60s
+	"testSecondSave", #60s
+	"endGameAfter5SecondsonAgria", #5s
+	"endGameAfter5SecondsOnCatalyst", #5s
+	"endGameAfter5SecondsOnAgria_cameraSet_noMeleInit", #5s
+	"Agria_d20",
+	"Agria_d50",
+	"Agria_d100",
+	"Agria_noCam",
+	"agaria_base_5sEnd",
+	"agaria_base_5sEnd_noMeeleInit",
+	"agaria_base_5sEnd_emptyInit",
+	"agaria_base_5sEnd_defaultMeeleOptions",
 ]
 
 
